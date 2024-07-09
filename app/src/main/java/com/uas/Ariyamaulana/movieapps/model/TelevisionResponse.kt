@@ -1,4 +1,4 @@
-package com.uas.tripandusatria.movieapps.model
+package com.uas.Ariyamaulana.movieapps.model
 
 import android.os.Parcelable
 import com.google.gson.annotations.SerializedName

@@ -1,9 +1,9 @@
-package com.uas.tripandusatria.movieapps.service
+package com.uas.Ariyamaulana.movieapps.service
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
-class TVApiService {
+class MovieApiService {
     companion object{
         private const val BASE_URL = "https://api.themoviedb.org"
         private var retrofit : Retrofit? = null

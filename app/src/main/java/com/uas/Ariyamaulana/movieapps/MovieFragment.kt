@@ -1,4 +1,4 @@
-package com.uas.tripandusatria.movieapps
+package com.uas.Ariyamaulana.movieapps
 
 import android.os.Bundle
 import android.util.Log
@@ -7,11 +7,11 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.uas.tripandusatria.movieapps.databinding.FragmentMovieBinding
-import com.uas.tripandusatria.movieapps.model.Movie
-import com.uas.tripandusatria.movieapps.model.MovieResponse
-import com.uas.tripandusatria.movieapps.service.MovieApiInterface
-import com.uas.tripandusatria.movieapps.service.MovieApiService
+import com.uas.Ariyamaulana.movieapps.databinding.FragmentMovieBinding
+import com.uas.Ariyamaulana.movieapps.model.Movie
+import com.uas.Ariyamaulana.movieapps.model.MovieResponse
+import com.uas.Ariyamaulana.movieapps.service.MovieApiInterface
+import com.uas.Ariyamaulana.movieapps.service.MovieApiService
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response

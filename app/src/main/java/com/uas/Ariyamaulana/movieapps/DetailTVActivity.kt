@@ -1,10 +1,10 @@
-package com.uas.tripandusatria.movieapps
+package com.uas.Ariyamaulana.movieapps
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
-import com.uas.tripandusatria.movieapps.model.Television
-import com.uas.tripandusatria.movieapps.databinding.ActivityDetailTvactivityBinding
+import com.uas.Ariyamaulana.movieapps.model.Television
+import com.uas.Ariyamaulana.movieapps.databinding.ActivityDetailTvactivityBinding
 
 class DetailTVActivity : AppCompatActivity() {
 

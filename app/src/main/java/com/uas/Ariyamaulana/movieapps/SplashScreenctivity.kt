@@ -1,9 +1,9 @@
-package com.uas.tripandusatria.movieapps
+package com.uas.Ariyamaulana.movieapps
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.uas.tripandusatria.movieapps.MainActivity
+import com.uas.Ariyamaulana.movieapps.MainActivity
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.delay

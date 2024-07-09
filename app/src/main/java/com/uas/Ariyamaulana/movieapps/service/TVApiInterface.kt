@@ -1,6 +1,6 @@
-package com.uas.tripandusatria.movieapps.service
+package com.uas.Ariyamaulana.movieapps.service
 
-import com.uas.tripandusatria.movieapps.model.TelevisionResponse
+import com.uas.Ariyamaulana.movieapps.model.TelevisionResponse
 import retrofit2.Call
 import retrofit2.http.GET
 

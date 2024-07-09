@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.uas.tripandusatria.movieapps"
+    namespace = "com.uas.Ariyamaulana.movieapps"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.uas.tripandusatria.movieapps"
+        applicationId = "com.uas.Ariyamaulana.movieapps"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

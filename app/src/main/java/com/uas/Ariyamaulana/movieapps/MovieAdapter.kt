@@ -1,4 +1,4 @@
-package com.uas.tripandusatria.movieapps
+package com.uas.Ariyamaulana.movieapps
 
 import android.content.Intent
 import android.view.LayoutInflater
@@ -6,8 +6,8 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.uas.tripandusatria.movieapps.databinding.MovieItemBinding
-import com.uas.tripandusatria.movieapps.model.Movie
+import com.uas.Ariyamaulana.movieapps.databinding.MovieItemBinding
+import com.uas.Ariyamaulana.movieapps.model.Movie
 
 class MovieAdapter(
     private val movies: List<Movie>

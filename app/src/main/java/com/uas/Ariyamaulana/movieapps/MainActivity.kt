@@ -1,13 +1,13 @@
-package com.uas.tripandusatria.movieapps
+package com.uas.Ariyamaulana.movieapps
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import androidx.fragment.app.Fragment
-import com.uas.tripandusatria.movieapps.MovieFragment
-import com.uas.tripandusatria.movieapps.R
-import com.uas.tripandusatria.movieapps.TVFragment
-import com.uas.tripandusatria.movieapps.databinding.ActivityMainBinding
+import com.uas.Ariyamaulana.movieapps.MovieFragment
+import com.uas.Ariyamaulana.movieapps.R
+import com.uas.Ariyamaulana.movieapps.TVFragment
+import com.uas.Ariyamaulana.movieapps.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

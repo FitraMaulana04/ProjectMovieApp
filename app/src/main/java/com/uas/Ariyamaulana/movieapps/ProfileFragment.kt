@@ -1,4 +1,4 @@
-package com.uas.tripandusatria.movieapps
+package com.uas.Ariyamaulana.movieapps
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

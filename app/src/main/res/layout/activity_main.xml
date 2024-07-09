@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/spaceCadet"
-    tools:context="com.uas.tripandusatria.movieapps.MainActivity">
+    tools:context="com.uas.Ariyamaulana.movieapps.MainActivity">
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragment_container"

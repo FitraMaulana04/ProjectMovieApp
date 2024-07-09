@@ -1,4 +1,4 @@
-package com.uas.tripandusatria.movieapps
+package com.uas.Ariyamaulana.movieapps
 
 import android.content.Intent
 import android.view.LayoutInflater
@@ -6,9 +6,9 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.uas.tripandusatria.movieapps.databinding.TvItemBinding
-import com.uas.tripandusatria.movieapps.model.Television
-import com.uas.tripandusatria.movieapps.DetailTVActivity
+import com.uas.Ariyamaulana.movieapps.databinding.TvItemBinding
+import com.uas.Ariyamaulana.movieapps.model.Television
+import com.uas.Ariyamaulana.movieapps.DetailTVActivity
 
 class TVAdapter(
     private val tvs: List<Television>

@@ -3,13 +3,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/background_image"
-    tools:context="com.uas.tripandusatria.movieapps.MainActivity">
+    android:background="@color/grey"
+    tools:context="com.uas.Ariyamaulana.movieapps.MainActivity">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context="com.uas.tripandusatria.movieapps.MainActivity">
+        tools:context="com.uas.Ariyamaulana.movieapps.MainActivity">
 
         <ImageView
             android:id="@+id/image_phone"
@@ -23,7 +23,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_bias="0.0"
-            android:background="@drawable/profil"/>
+            android:background="@drawable/arya"/>
 
         <TextView
             android:id="@+id/text_nama"
@@ -31,7 +31,7 @@
             android:layout_height="38dp"
             android:layout_marginTop="20dp"
             android:gravity="center"
-            android:text="Tri Pandu Satria"
+            android:text="Arya Maulana"
             android:textColor="@color/black"
             android:textSize="32sp"
             android:textStyle="bold"
@@ -45,7 +45,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="2210031802007@sar.ac.id"
+            android:text="2210031802025@sar.ac.id"
             android:textColor="@color/black"
             android:textSize="18sp"
             android:textStyle="bold"

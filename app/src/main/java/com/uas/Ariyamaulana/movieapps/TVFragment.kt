@@ -1,4 +1,4 @@
-package com.uas.tripandusatria.movieapps
+package com.uas.Ariyamaulana.movieapps
 
 import android.os.Bundle
 import android.util.Log
@@ -7,11 +7,11 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.uas.tripandusatria.movieapps.databinding.FragmentTVBinding
-import com.uas.tripandusatria.movieapps.model.Television
-import com.uas.tripandusatria.movieapps.model.TelevisionResponse
-import com.uas.tripandusatria.movieapps.service.TVApiInterface
-import com.uas.tripandusatria.movieapps.service.TVApiService
+import com.uas.Ariyamaulana.movieapps.databinding.FragmentTVBinding
+import com.uas.Ariyamaulana.movieapps.model.Television
+import com.uas.Ariyamaulana.movieapps.model.TelevisionResponse
+import com.uas.Ariyamaulana.movieapps.service.TVApiInterface
+import com.uas.Ariyamaulana.movieapps.service.TVApiService
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
